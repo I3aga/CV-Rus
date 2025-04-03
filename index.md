@@ -3,13 +3,13 @@
 ## Контактная информация
 - **Имя:** Богдан Островерхов  
 - **Телефон:** +7 (747) 8494851  
-- **Email:** [ostroverkhovbogdan@gmail.com](mailto:ostroverkhovbogdan@gmail.com)  
-- **Местоположение:** Темиртау, Казахстан  
+- **Email:** [ostroverkhovbogdan@gmail.com](mailto:ostroverkhovbogdan@gmail.com)    
 - **Telegram:** [@big_bad_d](https://t.me/big_bad_d)
+- **Местоположение:** Темиртау, Казахстан
 ---
 
 ## Обо мне
-Опытный копирайтер с более чем 5 годами опыта. Владею русским (родной) и английским (B2) языками, немного знаю Python и WordPress.
+Опытный копирайтер с 5 годами опыта. Владею русским (родной) и английским (B2) языками, немного знаю Python и WordPress.
 
 ---
 
