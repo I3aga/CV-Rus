@@ -5,7 +5,7 @@
 - **Телефон:** +7 (747) 8494851  
 - **Email:** [ostroverkhovbogdan@gmail.com](mailto:ostroverkhovbogdan@gmail.com)  
 - **Местоположение:** Темиртау, Казахстан  
-
+- **Telegram:** [@big_bad_d](https://t.me/big_bad_d)
 ---
 
 ## Обо мне
