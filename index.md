@@ -6,6 +6,7 @@
 - **Email:** [ostroverkhovbogdan@gmail.com](mailto:ostroverkhovbogdan@gmail.com)    
 - **Telegram:** [@big_bad_d](https://t.me/big_bad_d)
 - **Местоположение:** Темиртау, Казахстан
+
 ---
 
 ## Обо мне
@@ -104,4 +105,4 @@
 - Курс "Поколение Python" для продвинутых: [Сертификат](https://stepik.org/cert/1941867)  
 
 ## Портфолио
-[Примеры моих работ](https://i3aga.github.io/CV-Rus/portfolio_rus.html))
+[Примеры моих работ](https://i3aga.github.io/CV-Rus/portfolio_rus.html)
