@@ -104,4 +104,4 @@
 - Курс "Поколение Python" для продвинутых: [Сертификат](https://stepik.org/cert/1941867)  
 
 ## Портфолио
-[Примеры моих работ](https://github.com/I3aga/CV_Rus/blob/main/portfolio_rus.md)
+[Примеры моих работ](https://github.com/I3aga/CV-Rus/blob/main/portfolio_rus.md)
