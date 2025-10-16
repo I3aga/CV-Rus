@@ -1,5 +1,8 @@
 # Богдан Островерхов
 
+- **Email:** [ostroverkhovbogdan@gmail.com](mailto:ostroverkhovbogdan@gmail.com)    
+- **Telegram:** [@big_bad_d](https://t.me/big_bad_d)
+
 Пишу на темы IT и бизнеса. Ниже — примеры работ.
 
 ---
@@ -74,6 +77,7 @@
 - **Инструменты ИИ.** Генерировал тексты (GPT, Claude AI), изображения (Midjourney), видео (Sora 2), работал с контент-сервисами (Neuron Writer, Agile Writer).  
 
 - **CMS.** Могу админить сайты на WordPress — от хостинга и DNS до установки тем и плагинов, управления пользователями, публикации контента.  
+
 
 
 
