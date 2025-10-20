@@ -1,7 +1,6 @@
 # Богдан Островерхов
 
 ## Контактная информация
-- **Имя:** Богдан Островерхов  
 - **Телефон:** +7 (747) 8494851  
 - **Email:** [ostroverkhovbogdan@gmail.com](mailto:ostroverkhovbogdan@gmail.com)    
 - **Telegram:** [@big_bad_d](https://t.me/big_bad_d)
@@ -106,4 +105,5 @@
 
 ## Портфолио
 [Примеры моих работ](https://i3aga.github.io/CV-Rus/portfolio_rus.html)
+
 
