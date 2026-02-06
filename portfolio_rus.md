@@ -76,6 +76,14 @@
 - [Как извлечь корень из числа при помощи Python](https://skillbox.ru/media/code/kak-izvlech-koren-iz-chisla-pri-pomoshchi-python/)
 - [Ошибка 502 Bad Gateway: что это значит и как её исправить](https://skillbox.ru/media/code/oshibka-502-bad-gateway-chto-eto-znachit-i-kak-eye-ispravit/)
 - [Дисперсия в статистике: теория, формулы, примеры](https://skillbox.ru/media/code/dispersiya-v-statistike-teoriya-formuly-primery/)
+- [Как распознать текст, написанный нейросетью](https://skillbox.ru/media/code/kak-raspoznat-tekst-napisannyy-neyrosetyu/)
+- [Как работать с глобальными переменными в Python](https://skillbox.ru/media/code/python-global/)
+- [Платформа n8n: что это такое и как она помогает автоматизировать процессы](https://skillbox.ru/media/code/n8n/)
+- [Redux: что это такое и зачем она нужна](https://skillbox.ru/media/code/redux/)
+- [Что такое Docker Compose и как он работает](https://skillbox.ru/media/code/docker-compose/)
+- [Что такое smoke-тестирование и зачем его проводить](https://skillbox.ru/media/code/smoke-testirovanie/)
+- [Метод Гаусса для решения систем линейных уравнений: правила и примеры](https://skillbox.ru/media/code/metod-gaussa/)
+- [Что такое энтропия: объясняем простыми словами с примерами из физики и жизни](https://skillbox.ru/media/code/entropiya/)
 
 **Статью [Что такое Envoy, зачем он нужен и как работает](https://skillbox.ru/media/code/chto-takoe-envoy-zachem-on-nuzhen-i-kak-rabotaet/) агентство контент-маркетинга Sdelaem внесло в подборку [17 примеров классных лонгридов: руководства, обзоры, спецпроекты](https://sdelaem.agency/blog/17-primerov-klassnyh-longridov-na-vse-sluchai-zhizni-rukovodstva-obzory-speczproekty/)**
 
@@ -164,10 +172,6 @@
 
 [Google Doc с примерами](https://docs.google.com/document/d/1GX7zhg99Nn2sJELyEjaD2w6Tjj39OvIfxs-6DyF2R-0/edit?usp=sharing)
 
-### Контент, созданный с помощью ИИ
-
-[Примеры статей, сгенерированных и отредактированных с использованием ИИ (GPT, Claude AI) для блога invme.com.](https://invme.com/en/blogs/relationship)
-
 ---
 
 ## Технические навыки и сертификаты
@@ -190,3 +194,4 @@
 
 - **Email:** [ostroverkhovbogdan@gmail.com](mailto:ostroverkhovbogdan@gmail.com)
 - **Telegram:** [@big_bad_d](https://t.me/big_bad_d)
+
