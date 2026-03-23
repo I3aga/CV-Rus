@@ -84,25 +84,32 @@
 - [Что такое smoke-тестирование и зачем его проводить](https://skillbox.ru/media/code/smoke-testirovanie/)
 - [Метод Гаусса для решения систем линейных уравнений: правила и примеры](https://skillbox.ru/media/code/metod-gaussa/)
 - [Что такое энтропия: объясняем простыми словами с примерами из физики и жизни](https://skillbox.ru/media/code/entropiya/)
+- [Гики и нёрды: разбираемся в разновидностях «ботаников»](https://skillbox.ru/media/code/gik-i-nerd/)
+- [Big data: что такое большие данные и как с ними работать](https://skillbox.ru/media/code/chto-takoe-big-data/)
+- [Чем занимается программный инженер и как им стать](https://skillbox.ru/media/code/programmnaya-inzheneriya/)
+- [JOIN в SQL: что это такое и как её использовать](https://skillbox.ru/media/code/osmyslyaem_rabotu_dzhoynov_v_sql_ot_relyatsionnoy_algebry_do_naglyadnykh_kartinok/)
+- [Робототехник: кто это, чем он занимается и как им стать](https://skillbox.ru/media/code/professiya-robototekhnik/)
 
 **Статью [Что такое Envoy, зачем он нужен и как работает](https://skillbox.ru/media/code/chto-takoe-envoy-zachem-on-nuzhen-i-kak-rabotaet/) агентство контент-маркетинга Sdelaem внесло в подборку [17 примеров классных лонгридов: руководства, обзоры, спецпроекты](https://sdelaem.agency/blog/17-primerov-klassnyh-longridov-na-vse-sluchai-zhizni-rukovodstva-obzory-speczproekty/)**
+
+---
+
+### Статьи журнала "КОД"
+
+Статьи о сетях, инструментах разработчиков, работе с данными и искусственным интеллектом.
+
+**Опубликованные статьи:**
+
+- [Как выявить и исправить переобучение нейросети](https://thecode.media/pereobuchenie-neyrosetey/)
+- [T-тест aka критерий Стьюдента: зачем нужен и как применять](https://thecode.media/chto-takoe-t-test/)
+- [Как работает U-критерий Манна-Уитни](https://thecode.media/kak-rabotaet-u-kriteriy-manna-uitni/)
+- [Что такое корреляция: объясняем простыми словами на примерах](https://thecode.media/chto-takoe-korrelyatsiya-obyasnyaem-prostymi-slovami-na-primerah/amp/)
 
 ---
 
 ### Статьи для TripleTen (ранее Practicum)
 
 Статьи о программировании и искусственном интеллекте, опубликованные под именем сотрудника TripleTen — такое условие заказчика.
-
-**Доказательство работы:** [Чек от КБ "Палиндром"](https://lknpd.nalog.ru/api/v1/receipt/236002930688/2005gq5bwz/print)
-
-Рабочий процесс:
-
-- получаю от редактора ТЗ по выбранной теме;
-- разрабатываю структуру будущей статьи;
-- собираю фактуру для статьи;
-- готовлю визуал, тестирую софт, пишу примеры на нужном языке программирования;
-- собираю статью и отправляю редактору;
-- если у редактора предложения, как изменить материал — готовлю обновленный вариант с учетом предложений.
 
 **Опубликованные статьи:**
 - [Is Programming Hard? Make It Easy with Python](https://practicum.com/blog/posts/is-programming-hard-make-it-easy-with-python)
