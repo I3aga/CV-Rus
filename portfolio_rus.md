@@ -89,6 +89,7 @@
 - [Чем занимается программный инженер и как им стать](https://skillbox.ru/media/code/programmnaya-inzheneriya/)
 - [JOIN в SQL: что это такое и как её использовать](https://skillbox.ru/media/code/osmyslyaem_rabotu_dzhoynov_v_sql_ot_relyatsionnoy_algebry_do_naglyadnykh_kartinok/)
 - [Робототехник: кто это, чем он занимается и как им стать](https://skillbox.ru/media/code/professiya-robototekhnik/)
+- [Техники тест-дизайна: что это такое и какие бывают](https://skillbox.ru/media/code/tehniki-test-dizayna/)
 
 **Статью [Что такое Envoy, зачем он нужен и как работает](https://skillbox.ru/media/code/chto-takoe-envoy-zachem-on-nuzhen-i-kak-rabotaet/) агентство контент-маркетинга Sdelaem внесло в подборку [17 примеров классных лонгридов: руководства, обзоры, спецпроекты](https://sdelaem.agency/blog/17-primerov-klassnyh-longridov-na-vse-sluchai-zhizni-rukovodstva-obzory-speczproekty/)**
 
@@ -104,6 +105,9 @@
 - [T-тест aka критерий Стьюдента: зачем нужен и как применять](https://thecode.media/chto-takoe-t-test/)
 - [Как работает U-критерий Манна-Уитни](https://thecode.media/kak-rabotaet-u-kriteriy-manna-uitni/)
 - [Что такое корреляция: объясняем простыми словами на примерах](https://thecode.media/chto-takoe-korrelyatsiya-obyasnyaem-prostymi-slovami-na-primerah/amp/)
+- [Чем различаются VPN и proxy](https://thecode.media/chem-razlichayutsya-vpn-i-proxy/)
+- [Логистическая регрессия: что это такое, формула, код и применение](https://thecode.media/logisticheskaya-regressiya-chto-eto-takoe-formula-kod-i-primenenie/)
+- [Разбираем алгоритм сжатия Хаффмана](https://thecode.media/algoritm-szhatiya-khaffmana/)
 
 ---
 
